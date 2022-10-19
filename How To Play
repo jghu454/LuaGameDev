@@ -1,0 +1,1 @@
+The game by default is set to a 10x10 minesweeper board. The game will which row you want to go to and then which column within the row. If you trigger a bomb, you will lose.
